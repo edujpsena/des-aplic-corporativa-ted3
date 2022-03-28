@@ -7,7 +7,8 @@ VANTAGENS
 
 • BUILDER: Separa a construção de um objeto complexo, podendo construir ele passo a passo. Assimd a pra produzir diferentes tipos e representações de um objeto usando o mesmo código de construção.
 
-• STRATEGY: 
+• STRATEGY: Vantagem de poder diminuir logicas condicionais, dessa forma podemos simplificar uma classe aplicando estrategias personalizadas para cada caso.
 
-• FACTORY METHOD: 
+• FACTORY METHOD: Permite a criação de produtos sem saber os detalhes de como são criados, só precisa informar os dados necessários para a criação.
+
 
